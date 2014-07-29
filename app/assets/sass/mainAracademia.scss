@@ -378,6 +378,7 @@ footer .worldMap > img { max-width: 100%;}
 /*--------------------------------------------------------*/
 /* Side Navbar */
 /* -------------------------------------------------------*/
+
 .sideBar
 {
   background-color: $grayBG !important;
@@ -402,7 +403,7 @@ footer .worldMap > img { max-width: 100%;}
 .navbar-side .side-user img {
   display: block;
   margin-bottom: 15px;
-  margin-left: 20px;
+  margin-left: 25px;
 }
 
 .navbar-side .side-user .welcome {
@@ -477,11 +478,14 @@ footer .worldMap > img { max-width: 100%;}
 .navbar-side .side-nav li.panel {
   border-top: 1px solid #54677a;
   border-bottom: 1px solid #142638;
+  border-radius: none !important;
+  border-left: none;
 }
 
 .navbar-side .side-nav li.panel ul li {
   border-top: none;
   border-bottom: none;
+
 }
 
 .navbar-side .side-nav li.panel ul li a,
@@ -561,4 +565,7 @@ footer .worldMap > img { max-width: 100%;}
   .navbar-side .side-nav li.panel ul li a:active {
     background-color: #e0e7e8;
   }
+}
+.panel{
+  margin:0px !important;
 }

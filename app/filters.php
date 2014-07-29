@@ -33,6 +33,16 @@ App::after(function($request, $response)
 |
 */
 
+Route::filter('isLoggedIn', function()
+{
+    if (!Sentry::check()) return Redirect::guest('/login')->with('sentryError',' المرجو الدخول ');
+});
+
+Route::filter('loggedIn',function()
+{
+   if(Sentry::check()) return Redirect::to('/dashboard');
+});
+
 Route::filter('auth', function()
 {
 	if (Auth::guest())
