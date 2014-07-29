@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59ba8053-a474-4d89-808a-691a9fa1e141" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="aracademia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aracademia">
+      <favorite_root url="file://$PROJECT_DIR$/app/views/partials/header.blade.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="37" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/DashboardController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="62" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/secured/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="38" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainAracademia.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/sass/mainAracademia.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="527" column="18" selection-start="21606" selection-end="21606" vertical-scroll-proportion="0.0" vertical-offset="7392" max-vertical-offset="8535">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sideBar.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/partials/dashboard/sideBar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="44" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.14893617" vertical-offset="195" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/partials/header.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="167" column="56" selection-start="3268" selection-end="6624" vertical-scroll-proportion="0.0" vertical-offset="1832" max-vertical-offset="2595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/Aracademia/Mailers/MailersImplementation.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Mailers/MailersServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/libraries/Helpers.php" />
+        <option value="$PROJECT_DIR$/app/start/global.php" />
+        <option value="$PROJECT_DIR$/app/views/public/contactus.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Validators/FormValidationException.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Validators/FormValidator.php" />
+        <option value="$PROJECT_DIR$/tests/functional/contactusCept.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Validators/Forms/contactForm.php" />
+        <option value="$PROJECT_DIR$/app/config/mail.php" />
+        <option value="$PROJECT_DIR$/public/css/mainAracademia.css" />
+        <option value="$PROJECT_DIR$/.env.local.php" />
+        <option value="/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/config/packages/aracademia/lightning/config.php" />
+        <option value="$PROJECT_DIR$/app/views/partials/header.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PublicController.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/LoginForm.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/ValidateLoginForm.php" />
+        <option value="$PROJECT_DIR$/app/views/public/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/LoginServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/UsersServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/UserMailer.php" />
+        <option value="$PROJECT_DIR$/app/views/public/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/ValidatePassReminderForm.php" />
+        <option value="$PROJECT_DIR$/tests/functional.suite.yml" />
+        <option value="$PROJECT_DIR$/tests/functional/passReminderCept.php" />
+        <option value="$PROJECT_DIR$/codeception.yml" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/LoginImplementation.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/LoginInterface.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Register/registerForm.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Register/ValidateRegisterForm.php" />
+        <option value="$PROJECT_DIR$/app/views/public/auth/passChange.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/public/auth/passReminder.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/emails/auth/activation.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/emails/auth/reminder.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Login/ValidatePassChangeForm.php" />
+        <option value="$PROJECT_DIR$/app/views/public/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Register/ValidateReActivateForm.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Register/RegisterInterface.php" />
+        <option value="$PROJECT_DIR$/app/controllers/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/UsersMailer.php" />
+        <option value="$PROJECT_DIR$/app/views/public/auth/reactivate.blade.php" />
+        <option value="$PROJECT_DIR$/app/Aracademia/Users/Register/RegisterImplementation.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/secured/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/DashboardController.php" />
+        <option value="$PROJECT_DIR$/app/assets/sass/mainAracademia.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/partials/dashboard/sideBar.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="792" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secured" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aracademia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="loginBox" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/websites/admin-v1.2.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/secured" />
+      <recent name="$PROJECT_DIR$/app/views/layouts" />
+      <recent name="$PROJECT_DIR$/app/views/emails/auth" />
+      <recent name="$PROJECT_DIR$/app/Aracademia/Users/Register" />
+      <recent name="$PROJECT_DIR$/app/views/public/auth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/public/auth" />
+      <recent name="$PROJECT_DIR$/app/Aracademia/Users" />
+      <recent name="$PROJECT_DIR$/app/Aracademia" />
+      <recent name="$PROJECT_DIR$/public/img/members" />
+      <recent name="$PROJECT_DIR$/app/views/partials/home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ba8053-a474-4d89-808a-691a9fa1e141" name="Default" comment="" />
+      <created>1405661876378</created>
+      <updated>1405661876378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="792" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17222223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Validators/Forms/contactForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="356" selection-end="356" vertical-scroll-proportion="0.28688523" vertical-offset="0" max-vertical-offset="732" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/packages/aracademia/lightning/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="2" selection-start="1112" selection-end="1112" vertical-scroll-proportion="0.5865922" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="36" selection-start="429" selection-end="429" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/contactus.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="40" selection-start="160" selection-end="160" vertical-scroll-proportion="0.12569833" vertical-offset="0" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/partials/home/courses.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="78" selection-start="136" selection-end="136" vertical-scroll-proportion="-0.27234638" vertical-offset="225" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.54469275" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emails/contactus.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="129" selection-end="129" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="52" selection-start="307" selection-end="307" vertical-scroll-proportion="0.27234638" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Mailers/MailersImplementation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="2" selection-start="405" selection-end="405" vertical-scroll-proportion="0.31424582" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Mailers/MailersInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="63" selection-start="172" selection-end="172" vertical-scroll-proportion="0.14664805" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="6" selection-start="4752" selection-end="4752" vertical-scroll-proportion="0.54112554" vertical-offset="1605" max-vertical-offset="3135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/UsersServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="55" selection-start="460" selection-end="460" vertical-scroll-proportion="0.3030303" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.14664805" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/functional/FunctionalTester.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_data/dump.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/dump.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.4082568" vertical-offset="1575" max-vertical-offset="2640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/functional.suite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="362" selection-end="362" vertical-scroll-proportion="0.23012552" vertical-offset="0" max-vertical-offset="717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/functional/passReminderCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="287" selection-end="287" vertical-scroll-proportion="0.20949721" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.3445946" vertical-offset="0" max-vertical-offset="740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="210" selection-end="210" vertical-scroll-proportion="0.20949721" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/macros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="53" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.7894737" vertical-offset="0" max-vertical-offset="2880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="0" selection-start="3128" selection-end="3128" vertical-scroll-proportion="1.2849162" vertical-offset="490" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Login/LoginInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="308" selection-end="308" vertical-scroll-proportion="0.27234638" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/auth/passChange.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="111" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.46089387" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/auth/passReminder.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="98" selection-start="731" selection-end="731" vertical-scroll-proportion="0.35614526" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="872" selection-end="872" vertical-scroll-proportion="0.41899443" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emails/auth/reminder.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="596" selection-end="596" vertical-scroll-proportion="0.34632036" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emails/auth/activation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="49" selection-start="465" selection-end="465" vertical-scroll-proportion="0.18854749" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Login/ValidateLoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="284" selection-end="284" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Login/ValidatePassChangeForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="45" selection-start="303" selection-end="303" vertical-scroll-proportion="0.21645021" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Login/ValidatePassReminderForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="255" selection-end="255" vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Register/ValidateReActivateForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="0.25974026" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Register/ValidateRegisterForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="451" selection-end="451" vertical-scroll-proportion="0.3030303" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="69" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.23044693" vertical-offset="270" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/public/auth/reactivate.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="62" selection-start="623" selection-end="623" vertical-scroll-proportion="0.33519554" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/UsersMailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="2" selection-start="913" selection-end="913" vertical-scroll-proportion="0.75418997" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Login/LoginImplementation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="58" selection-start="4409" selection-end="4409" vertical-scroll-proportion="0.32960895" vertical-offset="1654" max-vertical-offset="2370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="5" selection-start="2549" selection-end="2549" vertical-scroll-proportion="-0.12802276" vertical-offset="1245" max-vertical-offset="2070" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Register/RegisterImplementation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="9" selection-start="2750" selection-end="2750" vertical-scroll-proportion="0.09916201" vertical-offset="1204" max-vertical-offset="1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Aracademia/Users/Register/RegisterInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="39" selection-start="294" selection-end="294" vertical-scroll-proportion="0.27234638" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="64" selection-start="705" selection-end="705" vertical-scroll-proportion="0.64944136" vertical-offset="0" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="37" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="48" selection-end="48" vertical-scroll-proportion="0.041899443" vertical-offset="0" max-vertical-offset="716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="86865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/partials/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="56" selection-start="3268" selection-end="6624" vertical-scroll-proportion="0.0" vertical-offset="1832" max-vertical-offset="2595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/mainAracademia.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="119576" selection-start="119576" selection-end="119576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/sass/mainAracademia.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="527" column="18" selection-start="21606" selection-end="21606" vertical-scroll-proportion="0.0" vertical-offset="7392" max-vertical-offset="8535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/DashboardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="62" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/secured/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/partials/dashboard/sideBar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="44" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.14893617" vertical-offset="195" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
