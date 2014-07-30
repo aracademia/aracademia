@@ -24,52 +24,103 @@
                     </form>
                 </li>
                 <!-- end SIDE NAV SEARCH -->
-                <!-- begin DASHBOARD LINK -->
+                <!-- begin profile LINK -->
                 <li>
                     <a class="active" href="index.html">
-                        <i class="fa fa-dashboard"></i> Dashboard
+                        <i class="icomoon-profile"></i> صفحتي الشخصية
                     </a>
                 </li>
-                <!-- end DASHBOARD LINK -->
-                <!-- begin CHARTS DROPDOWN -->
+                <!-- end profile LINK -->
+                <!-- begin lessons DROPDOWN -->
                 <li class="panel">
-                    <a href="javascript:;"  data-toggle="collapse" class="accordion-toggle" data-target="#charts">
-                        <i class="fa fa-bar-chart-o"></i> Charts <i class="fa fa-caret-down"></i>
+                    <a href="javascript:;"  data-toggle="collapse" class="accordion-toggle" data-target="#lessons">
+                        <i class="icomoon-books"></i> الدروس <i class="fa fa-caret-down"></i>
                     </a>
-                    <ul class="collapse nav" id="charts">
+                    <ul class="collapse nav" id="lessons">
                         <li>
-                            <a href="flot.html">
-                                <i class="fa fa-angle-double-right"></i> Flot Charts
+                            <a href="">
+                                <i class="fa fa-angle-double-right"></i> مكتبة الدروس
                             </a>
                         </li>
                         <li>
-                            <a href="morris.html">
-                                <i class="fa fa-angle-double-right"></i> Morris.js
+                            <a href="">
+                                <i class="fa fa-angle-double-right"></i> دروسي المفضلة
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fa fa-angle-double-right"></i> شاهد لاحقا
                             </a>
                         </li>
                     </ul>
                 </li>
-                <!-- end CHARTS DROPDOWN -->
-                <!-- begin CHARTS DROPDOWN -->
+                <!-- end lessons DROPDOWN -->
+                <!-- begin QA DROPDOWN -->
                 <li class="panel">
-                    <a href="javascript:;" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#charts">
-                        <i class="fa fa-bar-chart-o"></i> Charts <i class="fa fa-caret-down"></i>
+                    <a href="javascript:;" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#qa">
+                        <i class="icomoon-question-2"></i> الأسئلة <i class="fa fa-caret-down"></i>
                     </a>
-                    <ul class="collapse nav" id="charts">
-                        <li>
-                            <a href="flot.html">
-                                <i class="fa fa-angle-double-right"></i> Flot Charts
-                            </a>
-                        </li>
-                        <li>
-                            <a href="morris.html">
-                                <i class="fa fa-angle-double-right"></i> Morris.js
-                            </a>
-                        </li>
+                    <ul class="collapse nav" id="qa">
+
+                                <li>
+                                    <a href="flot.html">
+                                        <i class="fa fa-angle-double-right"></i> مكتبة الأسئلة
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="morris.html">
+                                        <i class="fa fa-angle-double-right"></i> أسئلتي الخاصة
+                                    </a>
+                                </li>
+                               <li>
+                                    <a href="morris.html">
+                                        <i class="fa fa-angle-double-right"></i> أجوبتي الخاصة
+                                    </a>
+                                </li>
+
+
                     </ul>
                 </li>
 
-                <!-- end CHARTS DROPDOWN -->
+                <!-- end QA DROPDOWN -->
+                <!-- begin Instructor DROPDOWN -->
+                <li class="panel">
+                    <a href="javascript:;" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#instructors">
+                        <i class="icomoon-user-7"></i> الأساتذه <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="collapse nav" id="instructors">
+
+                        <li>
+                            <a href="flot.html">
+                                <i class="fa fa-angle-double-right"></i> كل الأساتذه
+                            </a>
+                        </li>
+                        <li>
+                            <a href="morris.html">
+                                <i class="fa fa-angle-double-right"></i> أساتذتي المفضلين
+                            </a>
+                        </li>
+
+
+
+                    </ul>
+                </li>
+
+                <!-- end Instructor DROPDOWN -->
+                <!-- begin promotion LINK -->
+                <li>
+                    <a  href="index.html">
+                        <i class="icomoon-graduation"></i> طلب الترقية
+                    </a>
+                </li>
+                <!-- end promotion LINK -->
+                <!-- begin suggestion LINK -->
+                <li>
+                    <a  href="index.html">
+                        <i class="icomoon-graduation"></i> إقتراحات
+                    </a>
+                </li>
+                <!-- end suggestion LINK -->
             </ul>
         </div>
  </nav>
