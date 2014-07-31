@@ -567,6 +567,21 @@ footer .worldMap > img { max-width: 100%;}
     background-color: #e0e7e8;
   }
 }
+@media(max-width: 768px)
+{
+
+
+  .navbar-side .side-nav .fa-caret-down {
+    float: right;
+    margin-top: 2px;
+    margin-right: 10px;
+  }
+  .side-nav > li > a{
+    padding-left: 20px;
+  }
+
+}
 .panel{
   margin:0px !important;
+
 }

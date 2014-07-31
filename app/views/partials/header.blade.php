@@ -104,13 +104,16 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navCollapse1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                <button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target="#navCollapse1">
+                    <i class="fa fa-bars"></i> Menu
                 </button>
+                <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <i class="fa fa-bars"></i> Menu
+                </button>
+                <div class="clearfix"></div>
             </div>
+
+
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse noPadding" id="navCollapse1">
@@ -141,10 +144,9 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span>  {{Session::get('fullName')}} <b class="caret"></b></a>
                         <ul class="dropdown-menu text-right">
                             <li><a href="/"> الرئيسية  <span class="glyphicon glyphicon-home"></span></a></li>
-                            <li><a href="#">صفحتي الشخصية  <span class="icomoon-profile"></span></a></li>
                             <li><a href="/dashboard"> لوحة التحكم  <span class="icomoon-cog-2"></span></a></li>
                             <li class="divider"></li>
-                            <li><a href="#">الإعدادات  <span class="icomoon-wrench-3"></span></a></li>
+                            <li><a href="/settings">الإعدادات  <span class="icomoon-wrench-3"></span></a></li>
                             <li class="divider"></li>
                             <li><a href="/logout">خروج   <span class="glyphicon glyphicon-log-out"></span></a></li>
                         </ul>
