@@ -105,10 +105,10 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target="#navCollapse1">
-                    <i class="fa fa-bars"></i> Menu
+                    <i class="fa fa-bars"></i>  &nbsp;
                 </button>
                 <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target=".sidebar-collapse">
-                    <i class="fa fa-bars"></i> Menu
+                    <i class="fa fa-bars"></i> لوحة التحكم
                 </button>
                 <div class="clearfix"></div>
             </div>
